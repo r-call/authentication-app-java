@@ -1,0 +1,21 @@
+<Context>
+
+<Resource name="jdbc/agreement_express_project"
+
+auth="Container"
+
+type="javax.sql.DataSource"
+
+username="root"
+
+password="IctVTi3hoJ10."
+
+driverClassName="com.mysql.jdbc.Driver"
+
+url="jdbc:mysql://localhost:3306/MVCDemo"
+
+maxActive="15"
+
+maxIdle="3"/>
+
+</Context>
